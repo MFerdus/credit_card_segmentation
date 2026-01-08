@@ -103,6 +103,8 @@ Determines the optimal number of clusters by analyzing inertia.
 
 ```markdown
 ![Elbow Method](images/elbow_method.png)
+![Elbow Method](elbow.JPG)
+
 ```
 
 ---
