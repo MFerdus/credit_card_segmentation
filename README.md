@@ -134,14 +134,7 @@ Each cluster represents a distinct customer behavior pattern.
 ![Cluster Profiles](https://github.com/MFerdus/credit_card_segmentation/blob/main/elbow.JPG))
 ```
 
-📌 *Tip:*
-Create an `images/` folder and save plots from your notebook using:
 
-```python
-plt.savefig("images/pca_clusters.png")
-```
-
----
 
 ## 🧠 Key Findings & Insights
 
