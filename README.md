@@ -5,19 +5,6 @@ This project focuses on **customer segmentation for credit card users** using **
 
 ---
 
-## 📑 Table of Contents
-
-1. [Project Overview](#-project-overview)
-2. [Business Problem](#-business-problem)
-3. [Dataset Description](#-dataset-description)
-4. [Methodology](#-methodology)
-5. [Clustering Results & Visualizations](#-clustering-results--visualizations)
-6. [Key Findings & Insights](#-key-findings--insights)
-7. [How to Run the Project](#-how-to-run-the-project)
-8. [Tools & Technologies](#-tools--technologies)
-9. [Future Improvements](#-future-improvements)
-
----
 
 ## 🚀 Project Overview
 
@@ -97,9 +84,6 @@ These features capture **financial habits and risk profiles** of customers.
 
 ### 🔹 Elbow Method
 
-Determines the optimal number of clusters by analyzing inertia.
-
-📷 **Screenshot Placeholder**
 
 markdown
 
@@ -111,6 +95,30 @@ markdown
 
 ![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/Silhouette_Score.JPG)
 
+### 🔹  Balance
+markdown
+
+![Balance](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/balance.JPG)
+
+### 🔹  Purchase
+markdown
+
+![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/purchase.JPG)
+
+### 🔹  Cash Advance
+markdown
+
+![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/cash_advance.JPG)
+
+### 🔹  Payments
+markdown
+
+![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/payments.JPG)
+
+### 🔹  Tenure
+markdown
+
+![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/tenure.JPG)
 
 ### 🔹 PCA Cluster Visualization
 
