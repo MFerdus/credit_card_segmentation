@@ -107,7 +107,9 @@ markdown
 
 
 ### 🔹  Silhouette Score
-![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/Silhouette Score.JPG)
+markdown
+
+![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/Silhouette_Score.JPG)
 
 
 ### 🔹 PCA Cluster Visualization
