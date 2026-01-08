@@ -127,7 +127,7 @@ Each cluster represents a distinct customer behavior pattern.
 📷 **Screenshot Placeholder**
 
 ```markdown
-![Cluster Profiles](images/cluster_profiles.png)
+![Cluster Profiles](https://github.com/MFerdus/credit_card_segmentation/blob/main/elbow.JPG))
 ```
 
 📌 *Tip:*
