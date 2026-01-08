@@ -101,13 +101,11 @@ Determines the optimal number of clusters by analyzing inertia.
 
 📷 **Screenshot Placeholder**
 
-```markdown
+markdown
 
 ![Elbow Method](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/elbow.JPG)
 
-```
 
----
 
 ### 🔹 PCA Cluster Visualization
 
