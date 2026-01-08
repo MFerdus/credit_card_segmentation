@@ -106,6 +106,9 @@ markdown
 ![Elbow Method](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/elbow.JPG)
 
 
+### 🔹  Silhouette Score
+![Silhouette Score](https://raw.githubusercontent.com/MFerdus/credit_card_segmentation/main/Silhouette Score.JPG)
+
 
 ### 🔹 PCA Cluster Visualization
 
