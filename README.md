@@ -103,8 +103,7 @@ Determines the optimal number of clusters by analyzing inertia.
 
 ```markdown
 ![Elbow Method](images/elbow_method.png)
-![Elbow Method](elbow.JPG)
-
+![Elbow Method]((https://github.com/MFerdus/credit_card_segmentation/blob/main/elbow.JPG)
 ```
 
 ---
